@@ -1,8 +1,7 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-//kod do brancha_1
-//drugi kod do brancha_1
+
 
 int main() {
     int WIDTH = 500;
