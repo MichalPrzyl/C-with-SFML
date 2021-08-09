@@ -3,6 +3,8 @@
 
 
 // min_length and min_height have to be considered as float values instead of just integer numbers
+//last check if everything works
+
 
 int main() {
     int WIDTH = 500;
