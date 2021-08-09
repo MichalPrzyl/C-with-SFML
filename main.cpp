@@ -2,6 +2,7 @@
 #include <SFML/Graphics.hpp>
 
 
+// min_length and min_height have to be considered as float values instead of just integer numbers
 
 int main() {
     int WIDTH = 500;
