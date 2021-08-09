@@ -1,8 +1,8 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
-//kod do brancha_1
-//drugi kod do brancha_1
+
+// min_length and min_height have to be considered as float values instead of just integer numbers
 
 int main() {
     int WIDTH = 500;
